@@ -1,9 +1,8 @@
 Montagem Rclone LINUX
 
-mkdir /home/googdrive
+mkdir /home/onedrive
 
 
-rclone mount --allow-other --allow-non-empty -v googdrive: /home/googdrive &
+rclone mount --allow-other --allow-non-empty -v onedrive: /home/onedrive &
 
 
-Onedri --allow-other --allow-non-empty -v drive: /home/stream &

@@ -1,0 +1,9 @@
+Montagem Rclone LINUX
+
+mkdir /home/googdrive
+
+
+rclone mount --allow-other --allow-non-empty -v googdrive: /home/googdrive &
+
+
+Onedri --allow-other --allow-non-empty -v drive: /home/stream &
